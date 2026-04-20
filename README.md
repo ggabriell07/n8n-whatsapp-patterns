@@ -1,6 +1,6 @@
 # n8n-whatsapp-patterns
 
-Padrões práticos para integração de n8n com WhatsApp via Evolution API — desenvolvidos e validados em produção.
+Padrões práticos para integração de n8n com WhatsApp via Evolution API desenvolvidos e validados em produção.
 
 A documentação cobre os três problemas mais difíceis dessa stack que não têm solução clara em português: descriptografia de mídia, roteamento de intenção por LLM e gestão de estado de conversa multi-step.
 
