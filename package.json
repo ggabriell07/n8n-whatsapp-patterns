@@ -1,0 +1,12 @@
+{
+  "name": "n8n-whatsapp-patterns",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Executable references for production WhatsApp, n8n and multimodal AI integration patterns.",
+  "scripts": {
+    "test": "node --test"
+  },
+  "engines": {
+    "node": ">=20"
+  }
+}
